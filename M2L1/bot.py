@@ -31,4 +31,4 @@ async def animals(ctx):
    # Можем передавать файл как параметр!
     await ctx.send(file=picture)
 
-bot.run('MTI0OTAwMDkzMTQ5NzA4NzAwNg.G9Ct1m.45xxI-Frk-sWtQK3ruh4OX4JcrutPQmtHCgQFo')
+bot.run('ТОКЕН ВАШЕГО БОТА')
